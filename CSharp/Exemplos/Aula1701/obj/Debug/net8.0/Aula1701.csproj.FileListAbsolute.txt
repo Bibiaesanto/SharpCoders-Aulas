@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\bin\Debug\net8.0\Aula1701.exe
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\bin\Debug\net8.0\Aula1701.deps.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\bin\Debug\net8.0\Aula1701.runtimeconfig.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\bin\Debug\net8.0\Aula1701.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\bin\Debug\net8.0\Aula1701.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.AssemblyInfo.cs
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\refint\Aula1701.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\Aula1701.genruntimeconfig.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Aula1701\obj\Debug\net8.0\ref\Aula1701.dll

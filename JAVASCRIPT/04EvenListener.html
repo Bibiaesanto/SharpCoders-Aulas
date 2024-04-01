@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EvenListener</title>
+
+    <script>
+
+        // Ao carregar
+        window.onload = () =>{
+            let botão = document.createElement('button');
+            botao.innerText = 'Clique aqui';
+            botao.value = 'Informação secreta';
+
+            // Adicionar o EventListener
+            botao.addEventListener('click', (objBotao)=>{ 
+                alert(objBotao.target.value);});
+
+            // Adicionar o botão na página
+            document.getElementsByTagName('body')[0].appendChild(botao);
+        }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

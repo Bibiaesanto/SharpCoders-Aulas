@@ -1,0 +1,6 @@
+@InstrumentosMusicais_HostAddress = http://localhost:5121
+
+GET {{InstrumentosMusicais_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

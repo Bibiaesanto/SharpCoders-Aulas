@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vetor</title>
+
+    <script>
+        // Nomes
+        let nomes = ['Alice', 'Bruno', 'Carla', 'Daniel', 'Elen'];
+
+        // Map
+        nomes.map(obj => document.write(obj+'<hr>'));
+
+        // Filter
+        let nomesContendoA = nomes.filter(nome => {
+            return nome.toLocaleLowerCase().indexOf('a')!= -1;
+        });
+
+        document.write(nomesContendoA+ '<hr');
+
+        // foreach
+        nomes.forEach((nome, linha) => {
+            document.write(linha+ ' ' +nome+ '<hr>');
+        });
+    </script>
+
+</head>
+<body>
+    
+</body>
+</html>

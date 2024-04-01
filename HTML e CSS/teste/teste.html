@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Extrato Bancário</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        /* background-color:  rgba(1, 43, 63, 0.7); */
+    }
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    h1 {
+        text-align: center;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+    th {
+        background-color: rgba(20, 53, 171, 0.5);
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    tr:hover {
+        background-color: rgba(20, 53, 171, 0.5);
+    }
+    .search-form {
+  position: relative;
+  display: inline-block;
+}
+
+.search-form input[type="search"] {
+  padding-right: 30px; 
+  border-radius: 20px; 
+  border: 1px solid #ccc; 
+  padding: 5px; 
+  width: 200px; 
+  box-sizing: border-box; 
+}
+.container-button{
+    color: aqua;
+}
+
+
+</style>
+</head>
+<body>
+
+    <section class="container" *ngIf="exibirConteudo">
+        <div class="container-button">
+            <button type="button" class="btn btn-success" (click)="openDepositModal()">Depósito</button>
+            <button class="btn btn-warning">Saque</button>
+            <button class="btn btn-primary">Transferencia</button>
+        </div>
+    
+        <div class="container">
+            <h2><strong>Meu Histórico</strong></h2>
+            <form action="/search" method="get" class="search-form">
+                <input type="search" id="search" name="q" placeholder="Pesquisar...">
+            </form>
+    
+            <br>
+            <br>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Data</th>
+                        <th>Descrição</th>
+                        <th>Valor (R$)</th>
+                        <th>Tipo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let transacao of transacoes">
+                        <td>{{ transacao.dataRealizacao | date }}</td>
+                        <td>{{ transacao.descricao }}</td>
+                        <td>{{ transacao.valorTransacao }}</td>
+                        <td>{{ transacao.tipoTransacao }}</td>
+                    </tr>
+                    <tr *ngFor="let transacao of transacoes">
+                        <td>{{ transacao.dataRealizacao | date }}</td>
+                        <td>{{ transacao.descricao }}</td>
+                        <td>{{ transacao.valorTransacao }}</td>
+                        <td>{{ transacao.tipoTransacao }}</td>
+                    </tr>
+                    <tr *ngFor="let transacao of transacoes">
+                        <td>{{ transacao.dataRealizacao | date }}</td>
+                        <td>{{ transacao.descricao }}</td>
+                        <td>{{ transacao.valorTransacao }}</td>
+                        <td>{{ transacao.tipoTransacao }}</td>
+                    </tr>
+                    <tr *ngFor="let transacao of transacoes">
+                        <td>{{ transacao.dataRealizacao | date }}</td>
+                        <td>{{ transacao.descricao }}</td>
+                        <td>{{ transacao.valorTransacao }}</td>
+                        <td>{{ transacao.tipoTransacao }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+    </body>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-end">
+          <li class="page-item disabled">
+            <a class="page-link">Previous</a>
+          </li>
+          <li class="page-item"><a class="page-link" href="#">1</a></li>
+          <li class="page-item"><a class="page-link" href="#">2</a></li>
+          <li class="page-item"><a class="page-link" href="#">3</a></li>
+          <li class="page-item">
+            <a class="page-link" href="#">Next</a>
+          </li>
+        </ul>
+      </nav>
+      
+</html>

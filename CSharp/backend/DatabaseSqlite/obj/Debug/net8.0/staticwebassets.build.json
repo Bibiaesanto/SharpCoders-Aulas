@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/c6N0QZfpk+oyHszi1EpLkn3D0PO5M5Gt5/F/oqPsuE=",
+  "Source": "DatabaseSqlite",
+  "BasePath": "_content/DatabaseSqlite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

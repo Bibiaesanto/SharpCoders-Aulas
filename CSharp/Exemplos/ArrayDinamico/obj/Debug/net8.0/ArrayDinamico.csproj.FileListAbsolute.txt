@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\bin\Debug\net8.0\ArrayDinamico.exe
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\bin\Debug\net8.0\ArrayDinamico.deps.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\bin\Debug\net8.0\ArrayDinamico.runtimeconfig.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\bin\Debug\net8.0\ArrayDinamico.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\bin\Debug\net8.0\ArrayDinamico.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.AssemblyInfo.cs
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\refint\ArrayDinamico.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ArrayDinamico.genruntimeconfig.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\ArrayDinamico\obj\Debug\net8.0\ref\ArrayDinamico.dll

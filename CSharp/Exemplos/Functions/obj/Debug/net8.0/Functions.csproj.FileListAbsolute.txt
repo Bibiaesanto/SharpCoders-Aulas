@@ -1,0 +1,14 @@
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\bin\Debug\net8.0\Functions.exe
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\Users\nicol\Desktop\SharpCoders\CSharp\Exemplos\Functions\obj\Debug\net8.0\ref\Functions.dll
